@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="SectionLevels">
+        <item>铜卡</item>
+        <item>银卡</item>
+        <item>金卡</item>
+        <item>白金卡</item>
+    </array>
+
+    <array name="SectionLevelValues">
+        <item>0</item>
+        <item>600</item>
+        <item>2000</item>
+        <item>5000</item>
+    </array>
+</resources>

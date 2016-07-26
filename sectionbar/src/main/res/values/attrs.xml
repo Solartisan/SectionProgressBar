@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SectionProgressBar">
+        <attr name="section_background" format="color"/>
+        <attr name="section_foreground" format="color"/>
+        <attr name="section_space_color" format="color"/>
+        <attr name="section_text_size" format="dimension"/>
+        <attr name="section_text_color" format="color"/>
+        <attr name="section_light_text_color" format="color"/>
+        <attr name="section_bar_height" format="dimension"/>
+        <attr name="section_bar_cursor" format="reference"/>
+    </declare-styleable>
+</resources>
